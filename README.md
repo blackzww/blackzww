@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Blackzw&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Roblox%20Tooling%20%7C%20Lua%20%7C%20Serverless&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=blackzw&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Roblox%20Tooling%20%7C%20Lua%20%7C%20Serverless&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Building+Mirrors+Hub;Lua+%2B+WindUI+%2B+Vercel;Serverless+APIs+%2B+AI+Integrations;Always+shipping+something+new" />
 
