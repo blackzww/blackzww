@@ -43,7 +43,7 @@ A Lua-based tooling hub with a **WindUI** interface, persistent config system, m
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blackzww&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackzww&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
