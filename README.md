@@ -20,16 +20,21 @@ Currently developing **Mirrors Hub**, a Lua tooling hub with:
 - 💾 Full config system — save / load / export / import
 - 🌍 Multi-language support (EN / PT / ES)
 
+🎓 Currently seeking a **Jovem Aprendiz** opportunity in **Technology/IT**, looking to grow professionally while contributing hands-on development experience to a team.
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 ## ⚙️ Tech Stack
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-A855F7?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -52,6 +57,21 @@ Currently developing **Mirrors Hub**, a Lua tooling hub with:
 | 🤖 AI Assistant | Vercel serverless proxy (`api/ask.js`) → AI model |
 | 💾 Config System | Save / Load / Export / Import profiles |
 | 🌍 i18n | English, Portuguese, Spanish |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+
+## 🗂️ Other Projects
+
+<div align="center">
+
+| Project | Description |
+|---|---|
+| 📖 **Nova Mangá** | Full website built with HTML, CSS & JavaScript, hosted on Vercel, monetized with Google AdSense |
+| 🔑 **mirrors-key-system** | Serverless key/auth system hosted on Vercel |
+| 👥 **Mirrors Team** | Community/team site hosted on Netlify |
+| ⛏️ **Minecraft Bedrock Behavior Packs** | Custom scripts & behavior packs, including a 3x3x3 mining mechanic |
 
 </div>
 
