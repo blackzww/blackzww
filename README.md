@@ -41,8 +41,7 @@ Full stack, mobile-first workflow, no formal CS background — just shipping.
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=blackzww&theme=gitdimmed&no-frame=true&no-bg=false&row=1&column=6"/>
-
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=blackzww&theme=gitdimmed&no-frame=true&no-bg=false&row=1&column=6"/>
 </div>
 
 ---
