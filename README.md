@@ -32,12 +32,12 @@ Full stack, mobile-first workflow, no formal CS background — just shipping.
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=blackzww&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C0C0C0&text_color=8B8B8B&icon_color=C0C0C0&include_all_commits=true" width="100%"/></td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=blackzww&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C0C0C0&text_color=8B8B8B&icon_color=C0C0C0&include_all_commits=true" width="100%"/></td>
 <td><img src="https://streak-stats.demolab.com/?user=blackzww&background=0D0D0D&border=2B2B2B&stroke=2B2B2B&ring=C0C0C0&fire=C0C0C0&currStreakNum=FFFFFF&sideNums=C0C0C0&currStreakLabel=8B8B8B&sideLabels=8B8B8B&dates=8B8B8B" width="100%"/></td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackzww&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C0C0C0&text_color=8B8B8B"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=blackzww&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C0C0C0&text_color=8B8B8B"/>
 
 <br><br>
 
@@ -74,8 +74,6 @@ Full stack, mobile-first workflow, no formal CS background — just shipping.
 - **Mirrors Key System** — Key generation, validation, auth & logging infrastructure
 - **Mirrors Team** — Website / community infrastructure
 - **Mirrors Hub Demo** — Web showcase for Mirrors
-- **PobreDescontao** — Brazilian game-discount website
-- **Robox 2** — Roblox game project
 - **Triple T Obby / Tung Tung Sahur** — Roblox obby project
 - **Blackzw Hub** — Roblox scripting hub
 - **Blackzw Universal** — Universal Roblox tooling
