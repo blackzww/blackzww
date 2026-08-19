@@ -64,7 +64,7 @@ Full stack, mobile-first workflow, no formal CS background — just shipping.
 ---
 
 <details>
-<summary><b>📂 Projects (19)</b></summary>
+<summary><b>📂 Projects (17)</b></summary>
 <br>
 
 - **Mirrors Hub** — Roblox tooling hub built with Luau + WindUI
